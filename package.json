@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "build": "webpack --config build/webpack.config.dev.js",
+    "watch": "npm run build -- --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "vue": "^2.6.2",
+    "vue-router": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-loader": "^8.0.5",
+    "copy-webpack-plugin": "^4.6.0",
+    "css-loader": "^2.1.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3",
+    "vue-loader": "^15.6.2",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.2",
+    "vueye-datatable": "^0.1.16",
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.3"
+  }
+}

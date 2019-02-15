@@ -1,0 +1,13 @@
+{
+    "name": "lisanka/assignment",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpseclib/phpseclib": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Lisanka Nagahatenna",
+            "email": "lisankanagahatenna@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "timezones": [
+        {
+            "id": "SrSL05UT553",
+            "name": "SLST",
+            "tzid": "Asia\/Colombo",
+            "tzoffset": "+05:30",
+            "tzcode": "UTC"
+        },
+        {
+            "id": "CSAs08UT190",
+            "name": "CST",
+            "tzid": "Asia\/Taipei",
+            "tzoffset": "+08:00",
+            "tzcode": "UTC"
+        },
+        {
+            "id": "NTAs05UT301",
+            "name": "NTZ",
+            "tzid": "Asia\/Kathmandu",
+            "tzoffset": "+05:45",
+            "tzcode": "UTC"
+        },
+        {
+            "id": "NCNe11UT686",
+            "name": "NCT",
+            "tzid": "New Caledonia",
+            "tzoffset": "+11:00",
+            "tzcode": "UTC"
+        },
+        {
+            "id": "KSAs09UT506",
+            "name": "KST",
+            "tzid": "Asia\/Daejeon",
+            "tzoffset": "+09:00",
+            "tzcode": "UTC"
+        }
+    ]
+}
