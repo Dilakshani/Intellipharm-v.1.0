@@ -52,7 +52,3 @@ php -S localhost:8000
 
 **Visit** your application on the following URL: http://localhost:8000
 
-## Future tasks
-- Add bash script to automate installation process.
-- Allow application writing priviledges within docker.
-# Interllipharm-repo
