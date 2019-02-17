@@ -1,5 +1,4 @@
-{
-  "members": [
+[
     {
       "id": "1",
       "firstname": "Verney",
@@ -8001,4 +8000,3 @@
       "joined_date": "2003-12-11"
     }
   ]
-}
