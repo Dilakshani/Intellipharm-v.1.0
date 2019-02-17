@@ -6,13 +6,14 @@ Current Version: 0.1.0
 
 Project description
 
-This is a simple application for fulfil the requirements of the assignment.This project has two versions
+This is a simple application for fulfill the requirements of the assignment.This project has two versions.
+
+Version 0.1.0
+This is a Vue application and this has been developed using modern development technologies. Such as Webpack,bootstrap, node modules and Docker. Please find the descriptive files about this system available in the 'readmes' folder.
 
 Version 0.1.1
-This is a vue application and this has been developed using modern development technologies.Such as Webpack,bootstrap,Docker.Please find the descriptive files about this system available in the 'readmes' folder.
-
-Version 0.1.2
-This is mostly done after the given time period. This is for generate charts/tables according to the rendered data.
+This application has been developed using PHP,MySQL,JQuery,Ajax and Bootstrap front-end framework.
+Please find the application here: https://github.com/Dilakshani/Intellipharm-v.1.1 
 
 ## Installation
 
