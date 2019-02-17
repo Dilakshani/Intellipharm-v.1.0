@@ -1,0 +1,26 @@
+<div class="modal" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="SFTP Login" aria-hidden="false" style="display: block;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabel">SFTP Login Credentials</h4>
+            </div>
+            <div class="modal-body">
+                <label>Username</label>
+                <input data-form="login" data-error="no-username" type="text" name="sftp_username" class="form-control">
+                <div class="alert alert-danger" id="no-username" style="display:none">
+                    No username entered
+                </div>
+                <br>
+                <label>Password</label>
+                <input data-form="login" data-error="no-password" type="password" name="sftp_password" class="form-control">
+                <div class="alert alert-danger" id="no-password" style="display:none">
+                    No password entered
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" id="close">Cancel</button>
+                <button type="button" class="btn btn-primary" id="sftp-login">Push to server</button>
+            </div>
+        </div>
+    </div>
+</div>
